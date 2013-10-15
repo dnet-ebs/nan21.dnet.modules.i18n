@@ -1,0 +1,5 @@
+Ext.define(Dnet.ns.ad + "DataSourceFieldLov_Ds$Trl", {
+	dataSourceId__lbl: "Data Source(ID)",
+	dataSourceName__lbl: "Data Source",
+	dataType__lbl: "Data Type"
+});

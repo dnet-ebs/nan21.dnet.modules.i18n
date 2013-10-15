@@ -1,0 +1,23 @@
+Ext.define(Dnet.ns.md + "BpAccount_Ds$Trl", {
+	bpartnerId__lbl: "Terţ(ID)",
+	bpartnerName__lbl: "Terţ(Den)",
+	bpartner__lbl: "Terţ",
+	companyId__lbl: "Unitate(ID)",
+	company__lbl: "Unitate",
+	customerCreditLimit__lbl: "Limită credit client",
+	customerGroupId__lbl: "Grup client(ID)",
+	customerGroup__lbl: "Grup client",
+	customerPaymentMethodId__lbl: "Mod plată client(ID)",
+	customerPaymentMethod__lbl: "Mod plată client",
+	customerPaymentTermId__lbl: "Termen plată client(ID)",
+	customerPaymentTerm__lbl: "Termen plată client",
+	customer__lbl: "Client",
+	vendorCreditLimit__lbl: "Limită credit furn",
+	vendorGroupId__lbl: "Grup furnizor(ID)",
+	vendorGroup__lbl: "Grup furnizor",
+	vendorPaymentMethodId__lbl: "Mod plată furn(ID)",
+	vendorPaymentMethod__lbl: "Mod plată furn",
+	vendorPaymentTermId__lbl: "Termen plată furn(ID)",
+	vendorPaymentTerm__lbl: "Termen plată furn",
+	vendor__lbl: "Furnizor"
+});

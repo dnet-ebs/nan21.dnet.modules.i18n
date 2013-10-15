@@ -1,0 +1,23 @@
+Ext.define(Dnet.ns.md + "BpAccount_Ds$Trl", {
+	bpartnerId__lbl: "Business partner(ID)",
+	bpartnerName__lbl: "Business partner(Name)",
+	bpartner__lbl: "Business partner",
+	companyId__lbl: "Company(ID)",
+	company__lbl: "Company",
+	customerCreditLimit__lbl: "Cust Credit Limit",
+	customerGroupId__lbl: "Customer group(ID)",
+	customerGroup__lbl: "Customer group",
+	customerPaymentMethodId__lbl: "Cust Payment Method(ID)",
+	customerPaymentMethod__lbl: "Cust Payment Method",
+	customerPaymentTermId__lbl: "Cust Payment Term(ID)",
+	customerPaymentTerm__lbl: "Cust Payment Term",
+	customer__lbl: "Customer",
+	vendorCreditLimit__lbl: "Vend Credit Limit",
+	vendorGroupId__lbl: "Vendor group(ID)",
+	vendorGroup__lbl: "Vendor group",
+	vendorPaymentMethodId__lbl: "Vend Payment Method(ID)",
+	vendorPaymentMethod__lbl: "Vend Payment Method",
+	vendorPaymentTermId__lbl: "Vend Payment Term(ID)",
+	vendorPaymentTerm__lbl: "Vend Payment Term",
+	vendor__lbl: "Vendor"
+});

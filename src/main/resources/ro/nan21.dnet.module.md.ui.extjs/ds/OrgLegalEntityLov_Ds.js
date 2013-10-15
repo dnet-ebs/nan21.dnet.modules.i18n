@@ -1,0 +1,3 @@
+Ext.define(Dnet.ns.md + "OrgLegalEntityLov_Ds$Trl", {
+	legalEntity__lbl: "Juridic"
+});
