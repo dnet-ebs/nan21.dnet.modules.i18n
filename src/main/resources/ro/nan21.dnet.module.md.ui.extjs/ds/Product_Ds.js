@@ -1,4 +1,13 @@
 Ext.define(Dnet.ns.md + "Product_Ds$Trl", {
+	attr1__lbl: "Atribut 1",
+	attr1id__lbl: "",
+	attr1val__lbl: "",
+	attr2__lbl: "Atribut 2",
+	attr2id__lbl: "",
+	attr2val__lbl: "",
+	attr3__lbl: "Atribut 3",
+	attr3id__lbl: "",
+	attr3val__lbl: "",
 	attributeSetId__lbl: "Grup atribute(ID)",
 	attributeSetName__lbl: "Grup atribute(Den)",
 	attributeSet__lbl: "Grup atribute",
