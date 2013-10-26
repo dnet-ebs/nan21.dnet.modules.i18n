@@ -9,5 +9,6 @@ Ext.define(Dnet.ns.bd + "Location_Ds$Trl", {
 	regionName__lbl: "Region Name",
 	region__lbl: "Region",
 	shipping__lbl: "For Shipping",
-	targetRefid__lbl: "Target Refid"
+	targetRefid__lbl: "Target Refid",
+	zip__lbl: "Zip"
 });

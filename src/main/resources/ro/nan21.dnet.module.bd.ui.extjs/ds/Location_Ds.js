@@ -9,5 +9,6 @@ Ext.define(Dnet.ns.bd + "Location_Ds$Trl", {
 	regionName__lbl: "Judeţ",
 	region__lbl: "Judeţ",
 	shipping__lbl: "Livrare",
-	targetRefid__lbl: ""
+	targetRefid__lbl: "",
+	zip__lbl: "Cod poştal"
 });
