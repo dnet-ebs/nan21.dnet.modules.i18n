@@ -1,0 +1,22 @@
+Ext.define(Dnet.ns.tx + "InventoryOperation_Ds$Trl", {
+	direction__lbl: "Direction",
+	eventDate__lbl: "Event Date",
+	eventDate__lbl_From: "Event Date(From)",
+	eventDate__lbl_To: "Event Date(To)",
+	inventoryId__lbl: "Inventory(ID)",
+	inventoryName__lbl: "Inventory(Name)",
+	inventory__lbl: "Inventory",
+	locatorId__lbl: "Location(ID)",
+	locatorName__lbl: "Location(Name)",
+	locator__lbl: "Location",
+	orgId__lbl: "Inventory(ID)",
+	org__lbl: "Inventory",
+	priceLoc__lbl: "Price Loc",
+	priceRef__lbl: "Price Ref",
+	productId__lbl: "Product(ID)",
+	productName__lbl: "Product(Name)",
+	product__lbl: "Product",
+	quantity__lbl: "Quantity",
+	uomId__lbl: "UoM(ID)",
+	uom__lbl: "UoM"
+});
