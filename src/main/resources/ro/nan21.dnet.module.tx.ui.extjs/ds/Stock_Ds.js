@@ -1,8 +1,5 @@
-Ext.define(Dnet.ns.tx + "InventoryOperation_Ds$Trl", {
-	direction__lbl: "Sens",
-	eventDate_From__lbl: "Data (De la)",
-	eventDate_To__lbl: "Data (Pana la)",
-	eventDate__lbl: "Data",
+Ext.define(Dnet.ns.tx + "Stock_Ds$Trl", {
+	available__lbl: "Disponibil",
 	inventoryId__lbl: "Gestiune(ID)",
 	inventoryName__lbl: "Gestiune(Den)",
 	inventory__lbl: "Gestiune",
@@ -11,12 +8,13 @@ Ext.define(Dnet.ns.tx + "InventoryOperation_Ds$Trl", {
 	locator__lbl: "Locaţie",
 	orgId__lbl: "Organizaţie(ID)",
 	org__lbl: "Organizaţie",
-	priceLoc__lbl: "",
-	priceRef__lbl: "",
 	productId__lbl: "Articol(ID)",
 	productName__lbl: "Articol(Den)",
 	product__lbl: "Articol",
 	quantity__lbl: "Cantitate",
+	reserved__lbl: "Rezervat",
 	uomId__lbl: "UM(ID)",
-	uom__lbl: "UM"
+	uom__lbl: "UM",
+	valueLoc__lbl: "",
+	valueRef__lbl: ""
 });

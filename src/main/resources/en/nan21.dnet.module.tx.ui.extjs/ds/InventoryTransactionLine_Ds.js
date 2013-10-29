@@ -1,0 +1,23 @@
+Ext.define(Dnet.ns.tx + "InventoryTransactionLine_Ds$Trl", {
+	fromInventoryId__lbl: "From Inventory(ID)",
+	fromInventoryName__lbl: "From Inventory(Name)",
+	fromInventory__lbl: "From Inventory",
+	fromLocationId__lbl: "From Location(ID)",
+	fromLocationName__lbl: "From Location(Name)",
+	fromLocation__lbl: "From Location",
+	priceLoc__lbl: "Price Loc",
+	priceRef__lbl: "Price Ref",
+	price__lbl: "Price",
+	productId__lbl: "Product(ID)",
+	productName__lbl: "Product(Name)",
+	product__lbl: "Product",
+	quantity__lbl: "Quantity",
+	toInventoryId__lbl: "To Inventory(ID)",
+	toInventoryName__lbl: "To Inventory(Name)",
+	toInventory__lbl: "To Inventory",
+	toLocationId__lbl: "To Location(ID)",
+	toLocationName__lbl: "To Location(Name)",
+	toLocation__lbl: "To Location",
+	uomId__lbl: "Uom(ID)",
+	uom__lbl: "Uom"
+});

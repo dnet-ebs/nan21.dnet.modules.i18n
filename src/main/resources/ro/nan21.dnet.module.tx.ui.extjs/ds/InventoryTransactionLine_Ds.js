@@ -1,0 +1,23 @@
+Ext.define(Dnet.ns.tx + "InventoryTransactionLine_Ds$Trl", {
+	fromInventoryId__lbl: "Gestiune sursă(ID)",
+	fromInventoryName__lbl: "Gestiune sursă(Den)",
+	fromInventory__lbl: "Gestiune sursă",
+	fromLocationId__lbl: "Locaţie sursa(ID)",
+	fromLocationName__lbl: "Locaţie sursa(Den)",
+	fromLocation__lbl: "Locaţie sursa",
+	priceLoc__lbl: "",
+	priceRef__lbl: "",
+	price__lbl: "",
+	productId__lbl: "Articol(ID)",
+	productName__lbl: "Articol(Den)",
+	product__lbl: "Articol",
+	quantity__lbl: "Cantitate",
+	toInventoryId__lbl: "Gestiune destinaţie(ID)",
+	toInventoryName__lbl: "Gestiune destinaţie(Den)",
+	toInventory__lbl: "Gestiune destinaţie",
+	toLocationId__lbl: "Locatie destinaţie(ID)",
+	toLocationName__lbl: "Locatie destinaţie(Den)",
+	toLocation__lbl: "Locatie destinaţie",
+	uomId__lbl: "UM(ID)",
+	uom__lbl: "UM"
+});
