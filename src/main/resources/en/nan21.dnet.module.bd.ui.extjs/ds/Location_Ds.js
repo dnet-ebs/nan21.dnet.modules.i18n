@@ -3,6 +3,7 @@ Ext.define(Dnet.ns.bd + "Location_Ds$Trl", {
 	billing__lbl: "For Billing",
 	cityName__lbl: "City Name",
 	countryId__lbl: "Country(ID)",
+	countryIso2__lbl: "Country(ISO-2)",
 	country__lbl: "Country",
 	mailing__lbl: "For Mailing",
 	regionId__lbl: "Region(ID)",

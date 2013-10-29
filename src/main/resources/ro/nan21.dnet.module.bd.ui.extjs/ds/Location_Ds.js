@@ -3,6 +3,7 @@ Ext.define(Dnet.ns.bd + "Location_Ds$Trl", {
 	billing__lbl: "Facturare",
 	cityName__lbl: "Localitate",
 	countryId__lbl: "Ţară(ID)",
+	countryIso2__lbl: "Tara(ISO-2)",
 	country__lbl: "Ţară",
 	mailing__lbl: "Corespondenţă",
 	regionId__lbl: "Judeţ(ID)",
