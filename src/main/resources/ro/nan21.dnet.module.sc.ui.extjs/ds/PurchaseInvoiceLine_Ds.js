@@ -1,0 +1,23 @@
+Ext.define(Dnet.ns.sc + "PurchaseInvoiceLine_Ds$Trl", {
+	amountLoc__lbl: "Valoare [L]",
+	amount__lbl: "Valoare",
+	companyId__lbl: "Unitate(ID)",
+	company__lbl: "Unitate",
+	entryMode__lbl: "",
+	invoiceDocNo__lbl: "Nr doc",
+	invoiceId__lbl: "Factură(ID)",
+	netAmountLoc__lbl: "Valoare netă [L]",
+	netAmount__lbl: "Valoare netă",
+	productAccountId__lbl: "Articol(ID)",
+	productId__lbl: "Articol(ID)",
+	productName__lbl: "Articol(Den)",
+	product__lbl: "Articol",
+	quantity__lbl: "Cantitate",
+	taxAmountLoc__lbl: "Valoare taxe [L]",
+	taxAmount__lbl: "Valoare taxe",
+	taxId__lbl: "Taxă(ID)",
+	tax__lbl: "Taxă",
+	unitPrice__lbl: "Preţ unitar",
+	uomId__lbl: "UM(ID)",
+	uom__lbl: "UM"
+});

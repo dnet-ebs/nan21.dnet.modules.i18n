@@ -1,0 +1,22 @@
+Ext.define(Dnet.ns.sc + "PurchaseOrderLine_Ds$Trl", {
+	amountLoc__lbl: "Amount Loc",
+	amount__lbl: "Amount",
+	companyId__lbl: "Order(ID)",
+	company__lbl: "Order",
+	netAmountLoc__lbl: "Net Amount Loc",
+	netAmount__lbl: "Net Amount",
+	orderDocNo__lbl: "Order",
+	orderId__lbl: "Order(ID)",
+	productAccountId__lbl: "Product Account(ID)",
+	productId__lbl: "Product Account(ID)",
+	productName__lbl: "Product Account",
+	product__lbl: "Product Account",
+	quantity__lbl: "Quantity",
+	taxAmountLoc__lbl: "Tax Amount Loc",
+	taxAmount__lbl: "Tax Amount",
+	taxId__lbl: "Tax(ID)",
+	tax__lbl: "Tax",
+	unitPrice__lbl: "Unit Price",
+	uomId__lbl: "Uom(ID)",
+	uom__lbl: "Uom"
+});

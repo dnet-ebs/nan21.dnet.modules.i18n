@@ -1,0 +1,22 @@
+Ext.define(Dnet.ns.sd + "SalesOrderLine_Ds$Trl", {
+	amountLoc__lbl: "Valoare [L]",
+	amount__lbl: "Valoare",
+	companyId__lbl: "Unitate(ID)",
+	company__lbl: "Unitate",
+	netAmountLoc__lbl: "Valoare netă [L]",
+	netAmount__lbl: "Valoare netă",
+	orderDocNo__lbl: "Nr doc",
+	orderId__lbl: "Comandă(ID)",
+	productAccountId__lbl: "Articol(ID)",
+	productId__lbl: "Articol(ID)",
+	productName__lbl: "Articol(Den)",
+	product__lbl: "Articol",
+	quantity__lbl: "Cantitate",
+	taxAmountLoc__lbl: "Valoare taxe [L]",
+	taxAmount__lbl: "Valoare taxe",
+	taxId__lbl: "Taxă(ID)",
+	tax__lbl: "Taxă",
+	unitPrice__lbl: "Preţ unitar",
+	uomId__lbl: "UM(ID)",
+	uom__lbl: "UM"
+});
