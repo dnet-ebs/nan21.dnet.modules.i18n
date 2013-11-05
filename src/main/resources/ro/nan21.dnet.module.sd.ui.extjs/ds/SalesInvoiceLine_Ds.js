@@ -7,7 +7,7 @@ Ext.define(Dnet.ns.sd + "SalesInvoiceLine_Ds$Trl", {
 	invoiceId__lbl: "Factură(ID)",
 	netAmountLoc__lbl: "Valoare netă [L]",
 	netAmount__lbl: "Valoare netă",
-	productAccountId__lbl: "Articol(ID)",
+	productAccountId__lbl: "Cont articol(ID)",
 	productId__lbl: "Articol(ID)",
 	productName__lbl: "Articol(Den)",
 	product__lbl: "Articol",

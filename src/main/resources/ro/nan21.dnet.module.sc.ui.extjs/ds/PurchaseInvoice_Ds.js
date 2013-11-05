@@ -2,7 +2,7 @@ Ext.define(Dnet.ns.sc + "PurchaseInvoice_Ds$Trl", {
 	amountLoc__lbl: "Total [L]",
 	amountRef__lbl: "Total [R]",
 	amount__lbl: "Total",
-	bpAccountId__lbl: "Terţ(ID)",
+	bpAccountId__lbl: "Cont terţ(ID)",
 	bpartnerId__lbl: "Terţ(ID)",
 	bpartnerName__lbl: "Terţ(Den)",
 	bpartner__lbl: "Terţ",

@@ -5,6 +5,7 @@ Ext.define(Dnet.ns.sd + "SalesOrder_Ui$Trl" , {
 	lineTaxList__ttl: "Item taxes",
 	linesPanel__ttl: "Order lines",
 	taxList__ttl: "Taxes",
+	wdwCopyLines__ttl: "Copy lines from order",
 	wdwCreate__ttl: "Create order",
 	/* menu */
 	tlbInfoEdit__ttl: "Order info",
@@ -21,8 +22,12 @@ Ext.define(Dnet.ns.sd + "SalesOrder_Ui$Trl" , {
 	btnCreateCancel__tlp: "",
 	btnCreateContinue__lbl: "Continue",
 	btnCreateContinue__tlp: "",
+	btnDoCopyLines__lbl: "Execute",
+	btnDoCopyLines__tlp: "",
 	btnShowBpAccount__lbl: "Show customer account",
-	btnShowBpAccount__tlp: "",
+	btnShowBpAccount__tlp: "Show customer account",
+	btnShowCopyLines__lbl: "Copy lines",
+	btnShowCopyLines__tlp: "Copy lines from order",
 	btnUnConfirm__lbl: "Un-Confirm",
 	btnUnConfirm__tlp: "Un-Confirm order.",
 	

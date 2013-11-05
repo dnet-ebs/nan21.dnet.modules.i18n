@@ -7,7 +7,7 @@ Ext.define(Dnet.ns.sd + "SalesOrderLine_Ds$Trl", {
 	netAmount__lbl: "Valoare netă",
 	orderDocNo__lbl: "Nr doc",
 	orderId__lbl: "Comandă(ID)",
-	productAccountId__lbl: "Articol(ID)",
+	productAccountId__lbl: "Cont articol(ID)",
 	productId__lbl: "Articol(ID)",
 	productName__lbl: "Articol(Den)",
 	product__lbl: "Articol",
