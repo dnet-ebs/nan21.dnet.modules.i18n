@@ -8,6 +8,6 @@ Ext.define(Dnet.ns.md + "ProductAccountLov_Ds$Trl", {
 	product__lbl: "Product",
 	purchase__lbl: "Type",
 	sale__lbl: "Type",
-	uomId__lbl: "Product(ID)",
-	uom__lbl: "Product"
+	uomId__lbl: "Default Uom(ID)",
+	uom__lbl: "Default Uom"
 });

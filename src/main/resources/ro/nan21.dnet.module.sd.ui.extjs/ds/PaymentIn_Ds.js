@@ -2,7 +2,7 @@ Ext.define(Dnet.ns.sd + "PaymentIn_Ds$Trl", {
 	amountLoc__lbl: "Valoare [L]",
 	amountRef__lbl: "Valoare [R]",
 	amount__lbl: "Valoare",
-	bpAccountId__lbl: "De la(ID)",
+	bpAccountId__lbl: "Cont terţ(ID)",
 	bpartnerId__lbl: "Terţ(ID)",
 	bpartnerName__lbl: "Terţ(Den)",
 	bpartner__lbl: "Terţ",
@@ -19,7 +19,7 @@ Ext.define(Dnet.ns.sd + "PaymentIn_Ds$Trl", {
 	docType__lbl: "Tip doc",
 	generated__lbl: "Generat",
 	posted__lbl: "Inregistrat",
-	sourceDocNo__lbl: "Nr doc sursa",
+	sourceDocNo__lbl: "Nr doc sursă",
 	xrateLoc__lbl: "Rată de schimb [L]",
 	xrateRef__lbl: "Rată de schimb [R]"
 });

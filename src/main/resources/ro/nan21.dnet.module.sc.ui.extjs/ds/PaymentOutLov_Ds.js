@@ -1,5 +1,5 @@
 Ext.define(Dnet.ns.sc + "PaymentOutLov_Ds$Trl", {
-	bpAccountId__lbl: "De la(ID)",
+	bpAccountId__lbl: "Cont terţ(ID)",
 	bpartnerId__lbl: "Terţ(ID)",
 	bpartnerName__lbl: "Terţ(Den)",
 	bpartner__lbl: "Terţ",
