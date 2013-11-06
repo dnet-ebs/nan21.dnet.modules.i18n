@@ -1,5 +1,6 @@
 Ext.define(Dnet.ns.sd + "SalesInvoice_Ui$Trl" , {
 	/* view */
+	atchList__ttl: "Attachments",
 	infoEdit__ttl: "Invoice info",
 	lineFilter__ttl: "Filter",
 	lineTaxList__ttl: "Line taxes",
@@ -8,6 +9,7 @@ Ext.define(Dnet.ns.sd + "SalesInvoice_Ui$Trl" , {
 	wdwCopyLines__ttl: "Copy lines from invoice",
 	wdwCreate__ttl: "Create invoice",
 	/* menu */
+	tlbAtchList__ttl: "Attachments",
 	tlbInfoEdit__ttl: "Invoice info",
 	tlbInvEdit__ttl: "Sales invoice",
 	tlbInvList__ttl: "Sales invoices",
@@ -26,7 +28,7 @@ Ext.define(Dnet.ns.sd + "SalesInvoice_Ui$Trl" , {
 	btnDoCopyLines__tlp: "",
 	btnPost__lbl: "Post",
 	btnPost__tlp: "Post invoice to accounting.",
-	btnShowBpAccount__lbl: "Show customer account",
+	btnShowBpAccount__lbl: "Customer account",
 	btnShowBpAccount__tlp: "Show customer account",
 	btnShowCopyLines__lbl: "Copy lines",
 	btnShowCopyLines__tlp: "Copy lines from invoice",

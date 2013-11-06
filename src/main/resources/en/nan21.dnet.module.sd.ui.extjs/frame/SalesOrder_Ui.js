@@ -1,5 +1,6 @@
 Ext.define(Dnet.ns.sd + "SalesOrder_Ui$Trl" , {
 	/* view */
+	atchList__ttl: "Attachments",
 	infoEdit__ttl: "Order info",
 	lineFilter__ttl: "Filter",
 	lineTaxList__ttl: "Item taxes",
@@ -8,6 +9,7 @@ Ext.define(Dnet.ns.sd + "SalesOrder_Ui$Trl" , {
 	wdwCopyLines__ttl: "Copy lines from order",
 	wdwCreate__ttl: "Create order",
 	/* menu */
+	tlbAtchList__ttl: "Attachments",
 	tlbInfoEdit__ttl: "Order info",
 	tlbLineEdit__ttl: "Order line",
 	tlbLineList__ttl: "Order lines",
@@ -24,7 +26,7 @@ Ext.define(Dnet.ns.sd + "SalesOrder_Ui$Trl" , {
 	btnCreateContinue__tlp: "",
 	btnDoCopyLines__lbl: "Execute",
 	btnDoCopyLines__tlp: "",
-	btnShowBpAccount__lbl: "Show customer account",
+	btnShowBpAccount__lbl: "Customer account",
 	btnShowBpAccount__tlp: "Show customer account",
 	btnShowCopyLines__lbl: "Copy lines",
 	btnShowCopyLines__tlp: "Copy lines from order",

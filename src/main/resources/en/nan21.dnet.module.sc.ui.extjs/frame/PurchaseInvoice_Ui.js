@@ -1,5 +1,6 @@
 Ext.define(Dnet.ns.sc + "PurchaseInvoice_Ui$Trl" , {
 	/* view */
+	atchList__ttl: "Attachments",
 	lineFilter__ttl: "Filter",
 	lineTaxList__ttl: "Line taxes",
 	linesPanel__ttl: "Invoice lines",
@@ -7,6 +8,7 @@ Ext.define(Dnet.ns.sc + "PurchaseInvoice_Ui$Trl" , {
 	wdwCopyLines__ttl: "Copy lines from invoice",
 	wdwCreate__ttl: "Create invoice",
 	/* menu */
+	tlbAtchList__ttl: "Attachments",
 	tlbInvEdit__ttl: "Purchase invoice",
 	tlbInvList__ttl: "Purchase invoices",
 	tlbLineEdit__ttl: "Invoice line",
@@ -24,7 +26,7 @@ Ext.define(Dnet.ns.sc + "PurchaseInvoice_Ui$Trl" , {
 	btnDoCopyLines__tlp: "",
 	btnPost__lbl: "Post",
 	btnPost__tlp: "Post invoice to accounting.",
-	btnShowBpAccount__lbl: "Show vendor account",
+	btnShowBpAccount__lbl: "Vendor account",
 	btnShowBpAccount__tlp: "Show vendor account",
 	btnShowCopyLines__lbl: "Copy lines",
 	btnShowCopyLines__tlp: "Copy lines from invoice",

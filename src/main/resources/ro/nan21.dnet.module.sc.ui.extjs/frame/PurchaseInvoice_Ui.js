@@ -1,5 +1,6 @@
 Ext.define(Dnet.ns.sc + "PurchaseInvoice_Ui$Trl" , {
 	/* view */
+	atchList__ttl: "Ataşamente",
 	lineFilter__ttl: "Filtru",
 	lineTaxList__ttl: "Taxe linie factură",
 	linesPanel__ttl: "Linii factură",
@@ -7,6 +8,7 @@ Ext.define(Dnet.ns.sc + "PurchaseInvoice_Ui$Trl" , {
 	wdwCopyLines__ttl: "Copiaza linii din factura",
 	wdwCreate__ttl: "Factura noua",
 	/* menu */
+	tlbAtchList__ttl: "Ataşamente",
 	tlbInvEdit__ttl: "Factură furnizor",
 	tlbInvList__ttl: "Facturi furnizor",
 	tlbLineEdit__ttl: "Linie factură",
@@ -24,7 +26,7 @@ Ext.define(Dnet.ns.sc + "PurchaseInvoice_Ui$Trl" , {
 	btnDoCopyLines__tlp: "",
 	btnPost__lbl: "Inregistrează",
 	btnPost__tlp: "Inregistrează factură in contabilitate",
-	btnShowBpAccount__lbl: "Arată cont furnizor",
+	btnShowBpAccount__lbl: "Cont furnizor",
 	btnShowBpAccount__tlp: "Arată cont furnizor",
 	btnShowCopyLines__lbl: "Copiază linii",
 	btnShowCopyLines__tlp: "Copiază linii din factură",
