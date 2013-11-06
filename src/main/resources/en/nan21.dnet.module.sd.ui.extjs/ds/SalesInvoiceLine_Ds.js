@@ -3,7 +3,7 @@ Ext.define(Dnet.ns.sd + "SalesInvoiceLine_Ds$Trl", {
 	amount__lbl: "Amount",
 	companyId__lbl: "Company(ID)",
 	company__lbl: "Company",
-	invoiceDocNo__lbl: "Invoice",
+	invoiceDocNo__lbl: "Doc No",
 	invoiceId__lbl: "Invoice(ID)",
 	netAmountLoc__lbl: "Net Amount Loc",
 	netAmount__lbl: "Net Amount",

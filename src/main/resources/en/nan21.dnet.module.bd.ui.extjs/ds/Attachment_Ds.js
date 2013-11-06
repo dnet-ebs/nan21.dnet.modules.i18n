@@ -1,6 +1,6 @@
 Ext.define(Dnet.ns.bd + "Attachment_Ds$Trl", {
-	baseUrl__lbl: "Type",
-	category__lbl: "Type",
+	baseUrl__lbl: "Base Url",
+	category__lbl: "Category",
 	location__lbl: "Location",
 	name__lbl: "Name",
 	targetAlias__lbl: "Target Alias",

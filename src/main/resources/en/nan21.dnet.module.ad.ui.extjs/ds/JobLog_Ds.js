@@ -4,7 +4,7 @@ Ext.define(Dnet.ns.ad + "JobLog_Ds$Trl", {
 	endTime__lbl_To: "End Time(To)",
 	jobContextId__lbl: "Job Context(ID)",
 	jobContext__lbl: "Job Context",
-	jobName__lbl: "Job Context",
+	jobName__lbl: "Job Name",
 	jobTimerId__lbl: "Job Timer(ID)",
 	jobTimer__lbl: "Job Timer",
 	startTime__lbl: "Start Time",

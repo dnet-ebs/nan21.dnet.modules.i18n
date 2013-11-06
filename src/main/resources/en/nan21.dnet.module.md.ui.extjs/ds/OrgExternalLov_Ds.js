@@ -1,3 +1,3 @@
 Ext.define(Dnet.ns.md + "OrgExternalLov_Ds$Trl", {
-	external__lbl: "Type"
+	external__lbl: "External"
 });

@@ -4,7 +4,7 @@ Ext.define(Dnet.ns.sc + "PurchaseInvoiceLine_Ds$Trl", {
 	companyId__lbl: "Company(ID)",
 	company__lbl: "Company",
 	entryMode__lbl: "Entry Mode",
-	invoiceDocNo__lbl: "Invoice",
+	invoiceDocNo__lbl: "Doc No",
 	invoiceId__lbl: "Invoice(ID)",
 	netAmountLoc__lbl: "Net Amount Loc",
 	netAmount__lbl: "Net Amount",

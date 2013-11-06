@@ -5,7 +5,7 @@ Ext.define(Dnet.ns.sc + "PurchaseOrderLine_Ds$Trl", {
 	company__lbl: "Company",
 	netAmountLoc__lbl: "Net Amount Loc",
 	netAmount__lbl: "Net Amount",
-	orderDocNo__lbl: "Order",
+	orderDocNo__lbl: "Doc No",
 	orderId__lbl: "Order(ID)",
 	productAccountId__lbl: "Product Account(ID)",
 	productId__lbl: "Product(ID)",

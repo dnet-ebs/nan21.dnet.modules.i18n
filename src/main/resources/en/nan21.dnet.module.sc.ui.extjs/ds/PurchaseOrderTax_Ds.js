@@ -1,7 +1,7 @@
 Ext.define(Dnet.ns.sc + "PurchaseOrderTax_Ds$Trl", {
 	baseAmountLoc__lbl: "Base Amount Loc",
 	baseAmount__lbl: "Base Amount",
-	orderDocNo__lbl: "Order",
+	orderDocNo__lbl: "Doc No",
 	orderId__lbl: "Order(ID)",
 	taxAmountLoc__lbl: "Tax Amount Loc",
 	taxAmount__lbl: "Tax Amount",
