@@ -6,9 +6,11 @@ Ext.define(Dnet.ns.sd + "SalesInvoiceInfo_Ds$Trl", {
 	billToLocation__lbl: "Billing location",
 	bpartnerId__lbl: "Business partner(ID)",
 	bpartnerRefid__lbl: "Business partner(Ref-ID)",
+	confirmed__lbl: "Confirmed",
 	paymentMethodId__lbl: "Payment Method(ID)",
 	paymentMethodName__lbl: "Payment Method(Name)",
 	paymentMethod__lbl: "Payment Method",
 	paymentTermId__lbl: "Payment Term(ID)",
-	paymentTerm__lbl: "Payment Term"
+	paymentTerm__lbl: "Payment Term",
+	posted__lbl: "Posted"
 });

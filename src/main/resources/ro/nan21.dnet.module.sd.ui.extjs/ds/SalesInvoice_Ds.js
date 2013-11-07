@@ -26,6 +26,8 @@ Ext.define(Dnet.ns.sd + "SalesInvoice_Ds$Trl", {
 	netAmountRef__lbl: "Total Net [R]",
 	netAmount__lbl: "Total Net",
 	posted__lbl: "Înregistrat",
+	salesOrderId__lbl: "Comandă client(ID)",
+	salesOrder__lbl: "Comandă",
 	taxAmountLoc__lbl: "Total TVA [L]",
 	taxAmountRef__lbl: "Total TVA [R]",
 	taxAmount__lbl: "Total TVA",

@@ -3,9 +3,11 @@ Ext.define(Dnet.ns.sd + "SalesOrderInfo_Ds$Trl", {
 	billToContact__lbl: "Bill To Contact",
 	billToLocationId__lbl: "Bill To Location(ID)",
 	billToLocationRefId__lbl: "Bill To Location(Ref-ID)",
-	billToLocation__lbl: "As String",
+	billToLocation__lbl: "Billing location",
 	bpartnerId__lbl: "Business partner(ID)",
 	bpartnerRefid__lbl: "Business partner(Ref-ID)",
+	confirmed__lbl: "Confirmed",
+	invoiced__lbl: "Invoiced",
 	paymentMethodId__lbl: "Payment Method(ID)",
 	paymentMethodName__lbl: "Payment Method(Name)",
 	paymentMethod__lbl: "Payment Method",
@@ -15,5 +17,5 @@ Ext.define(Dnet.ns.sd + "SalesOrderInfo_Ds$Trl", {
 	shipToContact__lbl: "Ship To Contact",
 	shipToLocationId__lbl: "Ship To Location(ID)",
 	shipToLocationRefId__lbl: "Ship To Location(Ref-ID)",
-	shipToLocation__lbl: "As String"
+	shipToLocation__lbl: "Shipping location"
 });

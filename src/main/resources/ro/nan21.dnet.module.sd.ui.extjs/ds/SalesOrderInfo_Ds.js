@@ -6,6 +6,8 @@ Ext.define(Dnet.ns.sd + "SalesOrderInfo_Ds$Trl", {
 	billToLocation__lbl: "Adresă factură",
 	bpartnerId__lbl: "Terţ(ID)",
 	bpartnerRefid__lbl: "Terţ",
+	confirmed__lbl: "Confirmat",
+	invoiced__lbl: "Facturat",
 	paymentMethodId__lbl: "Mod plată(ID)",
 	paymentMethodName__lbl: "Mod plată(Den)",
 	paymentMethod__lbl: "Mod plată",

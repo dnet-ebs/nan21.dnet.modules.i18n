@@ -8,6 +8,7 @@ Ext.define(Dnet.ns.sd + "SalesOrder_Ui$Trl" , {
 	taxList__ttl: "Taxe",
 	wdwCopyLines__ttl: "Copiaza linii din factura",
 	wdwCreate__ttl: "Comandă nouă",
+	wdwGenInvoice__ttl: "Generează factură",
 	/* menu */
 	tlbAtchList__ttl: "Ataşamente",
 	tlbInfoEdit__ttl: "Info comandă",
@@ -24,6 +25,10 @@ Ext.define(Dnet.ns.sd + "SalesOrder_Ui$Trl" , {
 	btnCreateCancel__tlp: "",
 	btnCreateContinue__lbl: "Continuă",
 	btnCreateContinue__tlp: "",
+	btnCreateInvoice__lbl: "Gen. factură",
+	btnCreateInvoice__tlp: "Generează factură",
+	btnCreateInvoiceOk__lbl: "OK",
+	btnCreateInvoiceOk__tlp: "Generează factură",
 	btnDoCopyLines__lbl: "Execută",
 	btnDoCopyLines__tlp: "",
 	btnShowBpAccount__lbl: "Cont client",

@@ -8,6 +8,7 @@ Ext.define(Dnet.ns.sd + "SalesOrder_Ui$Trl" , {
 	taxList__ttl: "Taxes",
 	wdwCopyLines__ttl: "Copy lines from order",
 	wdwCreate__ttl: "Create order",
+	wdwGenInvoice__ttl: "Generate invoice",
 	/* menu */
 	tlbAtchList__ttl: "Attachments",
 	tlbInfoEdit__ttl: "Order info",
@@ -24,6 +25,10 @@ Ext.define(Dnet.ns.sd + "SalesOrder_Ui$Trl" , {
 	btnCreateCancel__tlp: "",
 	btnCreateContinue__lbl: "Continue",
 	btnCreateContinue__tlp: "",
+	btnCreateInvoice__lbl: "Gen. Invoice",
+	btnCreateInvoice__tlp: "Generate Invoice",
+	btnCreateInvoiceOk__lbl: "OK",
+	btnCreateInvoiceOk__tlp: "Generate Invoice",
 	btnDoCopyLines__lbl: "Execute",
 	btnDoCopyLines__tlp: "",
 	btnShowBpAccount__lbl: "Customer account",
