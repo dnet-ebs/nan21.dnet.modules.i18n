@@ -32,6 +32,8 @@ Ext.define(Dnet.ns.sd + "SalesInvoice_Ui$Trl" , {
 	btnShowBpAccount__tlp: "Arată cont client",
 	btnShowCopyLines__lbl: "Copiază linii",
 	btnShowCopyLines__tlp: "Copiază linii din factură",
+	btnShowOrder__lbl: "Arată comandă",
+	btnShowOrder__tlp: "Arată comanda client asociată acestei facturi.",
 	btnUnConfirm__lbl: "De-Confirmă",
 	btnUnConfirm__tlp: "De-confirmă factură",
 	btnUnPost__lbl: "De-Inregistrează",

@@ -4,11 +4,13 @@ Ext.define(Dnet.ns.sc + "VendorAccount_Ui$Trl" , {
 	invoicePanel__ttl: "Invoices",
 	orderFilter__ttl: "Filter",
 	orderPanel__ttl: "Orders",
+	payableList__ttl: "Payables",
 	/* menu */
 	tlbAccountEdit__ttl: "Vendor account",
 	tlbAccountList__ttl: "Vendor accounts",
 	tlbInvoicesList__ttl: "Invoices",
 	tlbOrdersList__ttl: "Orders",
+	tlbPayablesList__ttl: "Payables",
 	/* button */
 	btnShowBpAccount__lbl: "Show accounts",
 	btnShowBpAccount__tlp: "",

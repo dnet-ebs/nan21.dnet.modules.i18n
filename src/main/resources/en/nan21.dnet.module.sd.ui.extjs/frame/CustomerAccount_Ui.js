@@ -4,11 +4,13 @@ Ext.define(Dnet.ns.sd + "CustomerAccount_Ui$Trl" , {
 	invoicePanel__ttl: "Invoices",
 	orderFilter__ttl: "Filter",
 	orderPanel__ttl: "Orders",
+	receivableList__ttl: "Receivables",
 	/* menu */
 	tlbAccountEdit__ttl: "Customer account",
 	tlbAccountList__ttl: "Customer accounts",
-	tlbInvoicesList__ttl: "Invoices",
-	tlbOrdersList__ttl: "Orders",
+	tlbInvoiceList__ttl: "Invoices",
+	tlbOrderList__ttl: "Orders",
+	tlbReceivablesList__ttl: "Receivables",
 	/* button */
 	btnShowBpAccount__lbl: "Show accounts",
 	btnShowBpAccount__tlp: "",

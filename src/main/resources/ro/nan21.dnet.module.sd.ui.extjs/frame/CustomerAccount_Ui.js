@@ -4,11 +4,13 @@ Ext.define(Dnet.ns.sd + "CustomerAccount_Ui$Trl" , {
 	invoicePanel__ttl: "Facturi",
 	orderFilter__ttl: "Filtru",
 	orderPanel__ttl: "Comenzi",
+	receivableList__ttl: "Solduri",
 	/* menu */
 	tlbAccountEdit__ttl: "Cont client",
 	tlbAccountList__ttl: "Conturi client",
-	tlbInvoicesList__ttl: "Facturi",
-	tlbOrdersList__ttl: "Comenzi",
+	tlbInvoiceList__ttl: "Facturi",
+	tlbOrderList__ttl: "Comenzi",
+	tlbReceivablesList__ttl: "Solduri",
 	/* button */
 	btnShowBpAccount__lbl: "Arată conturi terţ",
 	btnShowBpAccount__tlp: "",
