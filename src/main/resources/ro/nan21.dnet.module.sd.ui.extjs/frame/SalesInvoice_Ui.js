@@ -6,8 +6,8 @@ Ext.define(Dnet.ns.sd + "SalesInvoice_Ui$Trl" , {
 	lineTaxList__ttl: "Taxe linie factură",
 	linesPanel__ttl: "Linii factură",
 	taxList__ttl: "Taxe",
-	wdwCopyLines__ttl: "Copiaza linii din factura",
-	wdwCreate__ttl: "Factura noua",
+	wdwCopyLines__ttl: "Copiază linii din factură",
+	wdwCreate__ttl: "Factură nouă",
 	/* menu */
 	tlbAtchList__ttl: "Ataşamente",
 	tlbInfoEdit__ttl: "Info factură",

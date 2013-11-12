@@ -35,5 +35,5 @@ Ext.define(Dnet.ns.sc + "PurchaseInvoice_Ui$Trl" , {
 	btnUnPost__lbl: "Un-Post",
 	btnUnPost__tlp: "Un-Post invoice from accounting.",
 	
-	title: "Purchase invoice"
+	title: "Purchase invoices"
 });

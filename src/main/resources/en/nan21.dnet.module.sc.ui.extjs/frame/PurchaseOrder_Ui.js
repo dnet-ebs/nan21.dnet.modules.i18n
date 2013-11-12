@@ -31,5 +31,5 @@ Ext.define(Dnet.ns.sc + "PurchaseOrder_Ui$Trl" , {
 	btnUnConfirm__lbl: "Un-Confirm",
 	btnUnConfirm__tlp: "Un-Confirm order.",
 	
-	title: "Purchase order"
+	title: "Purchase orders"
 });

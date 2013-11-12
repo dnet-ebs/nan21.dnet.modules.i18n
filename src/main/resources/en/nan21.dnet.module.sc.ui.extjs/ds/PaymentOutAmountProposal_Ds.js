@@ -1,4 +1,4 @@
-Ext.define(Dnet.ns.sd + "Receivable_Ds$Trl", {
+Ext.define(Dnet.ns.sc + "PaymentOutAmountProposal_Ds$Trl", {
 	amountDue__lbl: "Due amount",
 	amountDue__lbl_From: "Due amount(From)",
 	amountDue__lbl_To: "Due amount(To)",
@@ -6,21 +6,20 @@ Ext.define(Dnet.ns.sd + "Receivable_Ds$Trl", {
 	amountInitial__lbl_From: "Initial amount(From)",
 	amountInitial__lbl_To: "Initial amount(To)",
 	amountPayed__lbl: "Payed amount",
-	amountPayed__lbl_From: "Payed amount(From)",
-	amountPayed__lbl_To: "Payed amount(To)",
+	businessPartnerName__lbl: "Payed to(Name)",
+	businessPartner__lbl: "Payed to",
 	companyId__lbl: "Company(ID)",
 	company__lbl: "Company",
 	currencyId__lbl: "Currency(ID)",
 	currency__lbl: "Currency",
-	customerAccountId__lbl: "Customer account(ID)",
-	customerId__lbl: "Customer(ID)",
-	customerName__lbl: "Customer(Name)",
-	customer__lbl: "Customer",
+	currentPayment__lbl: "Current payment",
 	dueDate__lbl: "Due Date",
 	dueDate__lbl_From: "Due Date(From)",
 	dueDate__lbl_To: "Due Date(To)",
-	dueInDays__lbl: "Due In Days",
-	invoiceDate__lbl: "Doc Date",
-	invoiceId__lbl: "Sales Invoice(ID)",
-	invoiceNo__lbl: "Doc No"
+	paymentCurrency__lbl: "Currency",
+	paymentId__lbl: "",
+	receivedAmount__lbl: "Received amount",
+	remainingAmount__lbl: "Remaining",
+	unAllocatedAmount__lbl: "Unused amount",
+	vendorAccountId__lbl: "Vendor account(ID)"
 });

@@ -7,7 +7,7 @@ Ext.define(Dnet.ns.sd + "SalesInvoice_Ui$Trl" , {
 	linesPanel__ttl: "Invoice lines",
 	taxList__ttl: "Taxes",
 	wdwCopyLines__ttl: "Copy lines from invoice",
-	wdwCreate__ttl: "Create invoice",
+	wdwCreate__ttl: "New invoice",
 	/* menu */
 	tlbAtchList__ttl: "Attachments",
 	tlbInfoEdit__ttl: "Invoice info",
@@ -39,5 +39,5 @@ Ext.define(Dnet.ns.sd + "SalesInvoice_Ui$Trl" , {
 	btnUnPost__lbl: "Un-Post",
 	btnUnPost__tlp: "Un-Post invoice from accounting.",
 	
-	title: "Sales invoice"
+	title: "Sales invoices"
 });
