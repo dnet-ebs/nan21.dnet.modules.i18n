@@ -35,6 +35,8 @@ Ext.define(Dnet.ns.sd + "SalesOrder_Ui$Trl" , {
 	btnShowBpAccount__tlp: "Show customer account",
 	btnShowCopyLines__lbl: "Copy lines",
 	btnShowCopyLines__tlp: "Copy lines from order",
+	btnShowInvoice__lbl: "Show invoice",
+	btnShowInvoice__tlp: "Show invoice",
 	btnUnConfirm__lbl: "Un-Confirm",
 	btnUnConfirm__tlp: "Un-Confirm order.",
 	
