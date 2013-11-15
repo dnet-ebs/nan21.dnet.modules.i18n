@@ -16,11 +16,15 @@ Ext.define(Dnet.ns.sd + "Receivable_Ds$Trl", {
 	customerId__lbl: "Customer(ID)",
 	customerName__lbl: "Customer(Name)",
 	customer__lbl: "Customer",
+	docPeriod__lbl: "Doc Period",
 	dueDate__lbl: "Due Date",
 	dueDate__lbl_From: "Due Date(From)",
 	dueDate__lbl_To: "Due Date(To)",
 	dueInDays__lbl: "Due In Days",
+	duePeriod__lbl: "Due period",
 	invoiceDate__lbl: "Doc Date",
+	invoiceDate__lbl_From: "Doc Date(From)",
+	invoiceDate__lbl_To: "Doc Date(To)",
 	invoiceId__lbl: "Sales Invoice(ID)",
 	invoiceNo__lbl: "Doc No"
 });
